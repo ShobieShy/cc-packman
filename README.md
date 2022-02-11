@@ -6,7 +6,7 @@
 
 To manually install packman, download the `packman` file and place it at /usr/bin/packman in a ComputerCraft device. Run `/usr/bin/packman bootstrap` to download the other necessary files. You will probably want to add /usr/bin to your shell path to make packman easier to use. All following commands assume that this is done.
 
-## 1.2 - Automatic Pastebin Installation
+## 1.2 - Automatic wget Installation
 
 Run the command `wget run https://cc.shobie.xyz/sccr/packman-scc` to automatically download packman, which will also perform the initial bootstrap operation and install the `main/easy-shell` package to add /usr/bin to the shell path to make packman easier to use in the future.
 
